@@ -1,0 +1,21 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.author {
+  width: 50%;
+  font-style: italic;
+  font-weight: bold;
+}
+.important {
+  color: indigo;
+  font-weight: bolder;
+}
+.veryimportant {
+  font-weight: bold;
+  font-family: cursive;
+  font-style: italic;
+  text-decoration: none;
+  color: pink;
+  font-size: 100px;
+}
